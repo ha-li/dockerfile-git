@@ -3,4 +3,7 @@
 mailer-base.df
 mailer-loggin.df
 mailer-live.df
+.idea/
+*.iml
+
 
